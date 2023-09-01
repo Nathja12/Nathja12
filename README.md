@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+-estou estudando na alura
+
+-meu nome é Nathan
+
 <!--
 **Nathja12/Nathja12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://media.tenor.com/AcLRYKN-0hAAAAAC/sukuna-manga.gif)
+
+-SUKUNA- > gojo
